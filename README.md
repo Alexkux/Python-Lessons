@@ -10,3 +10,5 @@
 ## Урок 6. общее - НЕ сделал
 ## Урок 7. общее - НЕ сделал
 ## Урок 8. общее - НЕ сделал
+
+https://github.com/DanilXO/test_for_lesson/blob/master/hw01_hard.py
